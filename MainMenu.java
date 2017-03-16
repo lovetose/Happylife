@@ -9,7 +9,6 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 public class MainMenu extends World
 {
     
-    GreenfootSound backgroundMusic = new GreenfootSound("Animal Crossing Title Screen.mp3");
     /**
      * Constructor for objects of class MainMenu.
      * 
